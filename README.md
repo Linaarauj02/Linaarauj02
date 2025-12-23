@@ -56,7 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Linaarauj02/Linaarauj02/output/snake.svg" alt="Snake animation" />
 
 ###
 
